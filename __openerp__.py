@@ -8,7 +8,7 @@
 	'description' : 'Procedure per il ricalcolo del piano dei conti',
 	'data': [
         'cogito_procedurericalcolo.xml',
-        'menu_items.xml',        
+        'menu_items.xml',
     ],
     'qweb': ['static/src/xml/*.xml'],
 	'installable': True

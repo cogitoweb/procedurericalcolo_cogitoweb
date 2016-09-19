@@ -11,6 +11,11 @@
                 <field name="name">Piano Conti Button</field>
                 <field name="tag">piano.conti</field>
         </record>
+        
+        <record id="struttura_albero_action" model="ir.actions.client">
+                <field name="name">Struttura Albero Button</field>
+                <field name="tag">struttura.albero</field>
+        </record>
                
     </data>
 </openerp>
