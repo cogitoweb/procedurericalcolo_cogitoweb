@@ -7,8 +7,8 @@
     <t t-name="StrutturaAlberoTemplate">
         
         <div class="proc-ric-container">      
-            <h1 class="proc-ric-title">Pannello di controllo del ricalcolo della struttura ad albero</h1>        
-            <button class="proc-ric-button" onclick="RicalcolaStruttura()">Ricalcola Struttura ad Albero</button>   
+            <h1 class="proc-ric-title">Tree Recalculation control panel</h1>        
+            <button class="proc-ric-button" onclick="RicalcolaStruttura()">Recalculate Tree</button>   
             <strong id="output_risultato"></strong> 
             
 

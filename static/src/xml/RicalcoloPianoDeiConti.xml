@@ -7,8 +7,8 @@
     <t t-name="PianoDeiConti">
         
         <div class="proc-ric-container">      
-            <h1 class="proc-ric-title">Pannello di controllo del ricalcolo del piano dei conti</h1>        
-            <button class="proc-ric-button" onclick="Ricalcola()">Ricalcola il piano dei conti</button>   
+            <h1 class="proc-ric-title">Control Panel of the Accounts Chart recalculation </h1>        
+            <button class="proc-ric-button" onclick="Ricalcola()">Recalculate Accounts Chart</button>   
             <strong id="output_risultato"></strong> 
             
 
